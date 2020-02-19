@@ -1,1 +1,1 @@
-# Curso_RaspberryParaProgramadores_OpenWebinars
+# Curso Raspberry para Programadores :: OpenWebinars
